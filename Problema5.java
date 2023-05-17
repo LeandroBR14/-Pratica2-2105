@@ -12,7 +12,7 @@ deve imprimir “Digitação errada. Tente Novamente”.
 */
 
 import java.util.Scanner;
-class Atividade4{
+class Problema5{
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
 
