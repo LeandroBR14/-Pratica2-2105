@@ -9,6 +9,7 @@ Sobrenome, idade e naturalidade. Se o caractere digitado pelo
 usuário for ‘N’ o programa deve imprimir o Nome e a idade. Se
 o caractere não for nenhuma das outras opções acima o programa
 deve imprimir “Digitação errada. Tente Novamente”.
+* Data de entrega: 21/5/2023
 */
 
 import java.util.Scanner;

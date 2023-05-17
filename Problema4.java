@@ -3,6 +3,7 @@
 * Nome do Programa: 4. Faça um programa que leia um número inteiro e mostre uma
 mensagem indicando se este número é par ou ímpar e se é
 positivo ou negativo.
+* Data de entrega: 21/5/2023
 */
 
 import java.util.Scanner;
