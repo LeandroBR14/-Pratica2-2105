@@ -22,5 +22,6 @@ class Problema3 {
         } else {
             System.out.println("Não são múltiplos");
         }
+        teclado.close();
     }
 }
